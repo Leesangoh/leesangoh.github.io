@@ -1,0 +1,14 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+- project: Making Learnable Query Optimizer
+  role: First author
+  duration: Sep. 2022 &mdash; Present
+  # url: "#"
+  description: <ul class="resume-item-list"><li> Using ML based approach, make current commercial query optimizer learnable to produce much better query plan than before </li> <li> Planning to submit at SIGMOD 2023 </li>
+
+- project: Cardinality Estimation of Subqueries in a Run
+  role: First author
+  duration: Sep. 2022 &mdash; Present
+  # url: "#"
+  description: <ul class="resume-item-list"><li> Given a query, estimate the cardinalities of its subqueries in a run for the query optimization </li> <li> Planning to submit at SIGMOD 2024 </li>

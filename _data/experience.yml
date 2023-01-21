@@ -1,0 +1,6 @@
+# Jobs
+# VP of Global Communications
+- company: POSTECH Data Systems Laboratory
+  position: Research Intern - Advised by Prof. Wook-Shin Han
+  duration: Oct, 2022 &mdash; Feb, 2023
+  summary:  Studied basics about query optimization & cardinality estimation <br> Research about topic "Cardinality Estimation of Subqueries in a Run" <ul class="resume-item-list"> <li> Designed and implemented simple heuristic algorithm for sampling-based cardinality estimation from sub-plans</li>
